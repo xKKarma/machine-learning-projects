@@ -6,3 +6,6 @@ Academic Machine Learning projects - linear / logistic regressions, neural netwo
 - Logistic regression and a logistic regression classifier using sklearn library.
 - Neural networks written numbers recognition classifier from a digits images dataset.
 
+# linear-regression
+
+- 
